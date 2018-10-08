@@ -21,7 +21,7 @@
 ## Ressources nécessaires :
 
 - 2 Buggies
-- Radar (fourni par auto-cruise)
+- Radar (fourni par autocruise)
 - Interface Radar
     a) PC
     b) Pi
@@ -29,7 +29,7 @@
  - Raspberry Pi
  - Lidar => Identification du modèle ADU
  
- 
+
  
 
 ## PRINCIPE : EXPLORATION-RECUPERATION
@@ -44,14 +44,25 @@
  c) Utilisation d'une caméra (potentiellement la caméra de la RaspberryPi) => Photographier les obstacles, identifier à l'aide d'une image numérique (détection de contours ect...)
  
  
- ## Lien entre I et II :
+## Lien entre I et II :
  
  - Traitement des informations reçues à partir de l'activité I
  - Détermination d'un chemin le plus court (avec évitement d'obstacles)
  - Affichage des informations sur une app mobile => distribution sur une IHM
  
  
- ## II- RECUPERATION (buggy autonome) 
+## II- RECUPERATION (buggy autonome) 
  
- Emprunt du chemin le plus court vers objectif (déterminé ultérieurement) 
+ Emprunt du chemin le plus court vers objectif (déterminé ultérieurement)
+ 
+ 
+# Intérêt du projet
+ 
+ Ce projet est à la fois cohérent, intéressant et innovant en associant plusieurs technologies marchant en parallèle.
+ En pratique, les tâches sont facile à répartir entre tous les collaborateurs grâce aux tâches pouvant être effectuées en parallèle.
+ Les applications et évolutions sont aussi nombreuses
+
+
+
+
  
